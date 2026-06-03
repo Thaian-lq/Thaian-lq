@@ -48,17 +48,17 @@
 
 ### 🚀 Projetos em destaque
 
-**🏭 Industrial Data Pipeline**
-Pipeline end-to-end com ingestão de dados de chão de fábrica, transformação via dbt e dashboard no Power BI para apoio à decisão.
-`Python` `dbt` `Databricks` `Power BI` `Azure`
+**📦 Sistema de Gestão de Scrap – Nissan**
+Desenvolvimento de uma aplicação corporativa para controle e gerenciamento de scrap industrial, automatizando o processo de registro, acompanhamento e análise de descartes. Integração com banco de dados corporativo, validações de negócio e dashboards para suporte à tomada de decisão.
+`Power Apps` `VBA` `SharePoint` `Windows` `Power BI`
 
-**🤖 RAG com dados internos**
-Chatbot com LangChain + RAG para consulta de documentos técnicos internos, integrado via n8n a canais de comunicação.
-`LangChain` `RAG` `Python` `n8n` `LLMs`
+**Sistema de Controle de Horas Extras – Nissan**
+Aplicação desenvolvida para centralizar solicitações, aprovações e monitoramento de horas extras em toda a planta. Automatização de fluxos de aprovação, consolidação de dados e geração de indicadores gerenciais para acompanhamento operacional.
+`Power Apps` `VBA` `SharePoint` `Windows` `Power BI`
 
-**📊 Analytics Dashboard · Power BI**
-Dashboard analítico com DAX avançado, modelagem estrela e narrativas inteligentes para indicadores de produção industrial.
-`Power BI` `DAX` `SQL` `Modelagem estrela`
+**🤖 Automação de Processamento de Imagens e Vídeos com IA**
+Fluxo automatizado utilizando n8n para processamento de imagens e vídeos com integração a modelos de inteligência artificial. Projeto focado em automação de tarefas, análise de conteúdo e orquestração de processos entre diferentes serviços e APIs.
+`n8n` `Python` `APIs IA Generativa` `Automação`
 
 ---
 
