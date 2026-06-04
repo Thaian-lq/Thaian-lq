@@ -117,8 +117,8 @@ Atuar em projetos de Sistemas, Dados e Automação, contribuindo com soluções 
 
 ## 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaian-alves-a74055325/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Thaian-lq)
 
 ---
 
